@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Proyecto NetBeans (Ant). El target real vive en nbproject/build-impl.xml,
+     que NetBeans genera/regenera automáticamente al abrir el proyecto. -->
+<project name="restaurante-delivery-poo" default="default" basedir=".">
+    <description>Builds, tests, and runs the project restaurante-delivery-poo.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
