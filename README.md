@@ -8,9 +8,9 @@ Programación Orientada a Objetos (2026-1).
 
 | Nombre | GitHub | Rol / Aporte |
 |---|---|---|
-| Diego Benjamin Calderon Ayala | exc-dev-pix | Clases y clases Abstractas |
-| Italo Guissepe Germana Zavala | Joaquin-cloud06 | Diseño UML, Interfaces |
-| Joaquin Alonso Armas Herrera | Italo-Germana | Clases, Parte gráfica |
+| Por definir | exc-dev-pix | Por definir |
+| Por definir | Joaquin-cloud06 | Por definir |
+| Por definir | Italo-Germana | Por definir |
 
 ## Tecnología
 
@@ -61,10 +61,10 @@ src/com/restaurante/
 
 - [x] **Fase 1** — Estructura del proyecto, interfaces base (`Facturable`, `Autenticidad`)
 - [x] **Fase 2** — Empleado (abstracta), Admin, Cajero, Repartidor, Vehiculos (RF01, RF10)
-- [ ] **Fase 3** — Cliente, Producto, Combo (`Facturable`) (RF02, RF03, RF04)
-- [ ] **Fase 4** — Pedido, DetallePedido, Incidente, flujo de estados (RF05, RF06, RF07)
-- [ ] **Fase 5** — Comprobante (abstracta), Boleta, Factura, cálculo de IGV (RF08)
-- [ ] **Fase 6** — Gestores en memoria: cada Gestor con su propio arreglo simple (sin genéricos ni ArrayList) (persistencia temporal)
-- [ ] **Fase 7** — Reportes gerenciales (RF09)
+- [x] **Fase 3** — Cliente, Producto, Combo (`Facturable`) (RF02, RF03, RF04)
+- [x] **Fase 4** — Pedido, DetallePedido, Incidente, flujo de estados (RF05, RF06, RF07)
+- [x] **Fase 5** — Comprobante (abstracta), Boleta, Factura, cálculo de IGV (RF08)
+- [x] **Fase 6** — Gestores en memoria: cada Gestor con su propio arreglo simple (sin genéricos ni ArrayList) (persistencia temporal)
+- [x] **Fase 7** — Reportes gerenciales (RF09)
 - [ ] **Fase 8** — GUI Swing: login y ventanas restringidas por rol (RF10, RF11)
 - [ ] **Fase 9** — Pruebas documentadas + informe final
