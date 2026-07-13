@@ -3,27 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Boleta.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Combo.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/DetallePedido.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/GestorCombos.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Producto.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/GestorReportes.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/GestorPedidos.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Empleado.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Factura.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/GestorClientes.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/LoginIU.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Incidente.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Cajero.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Comprobante.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/GestorEmpleados.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Admin.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Pedido.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Autenticidad.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Cliente.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Facturable.java</file>
-            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/restaurante-delivery-poo-main/src/com/restaurante/Main.java</file>
+            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/Proyecto--main/src/vista/LoginIU.java</file>
+            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/Proyecto--main/src/com/restaurante/Factura.java</file>
+            <file>file:/C:/Users/Diego/OneDrive/Documentos/NetBeansProjects/Proyecto--main/src/vista/ListaProductosIU.java</file>
         </group>
     </open-files>
 </project-private>

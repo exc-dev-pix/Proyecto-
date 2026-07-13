@@ -154,8 +154,27 @@ public class RegistroPedidoIU extends javax.swing.JFrame {
     }
 
     private void finalizarPedido() {
-        javax.swing.JOptionPane.showMessageDialog(this, "Pedido #" + pedidoActual.getNumero() + " registrado. Estado: " + pedidoActual.getEstado());
+        Object[] opciones = {"Boleta", "Factura"};
+        int opcion = javax.swing.JOptionPane.showOptionDialog(this, "Pedido #" + pedidoActual.getNumero() + " registrado.\n¿Qué comprobante deseas emitir?", "Finalizar Pedido",
+                javax.swing.JOptionPane.DEFAULT_OPTION, javax.swing.JOptionPane.QUESTION_MESSAGE, null, opciones, opciones[0]);
+        Comprobante comprobante = (opcion == 1)
+                ? new Factura(pedidoActual.getNumero(), pedidoActual)
+                : new Boleta(pedidoActual.getNumero(), pedidoActual);
+        String salida = capturarSalida(() -> comprobante.emitir());
+        javax.swing.JOptionPane.showMessageDialog(this, salida, "Comprobante emitido", javax.swing.JOptionPane.INFORMATION_MESSAGE);
         dispose();
+    }
+
+    private String capturarSalida(Runnable accion) {
+        java.io.PrintStream original = System.out;
+        java.io.ByteArrayOutputStream buffer = new java.io.ByteArrayOutputStream();
+        System.setOut(new java.io.PrintStream(buffer));
+        try {
+            accion.run();
+        } finally {
+            System.setOut(original);
+        }
+        return buffer.toString();
     }
 
     @SuppressWarnings("unchecked")
