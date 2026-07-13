@@ -8,9 +8,9 @@ Programación Orientada a Objetos (2026-1).
 
 | Nombre | GitHub | Rol / Aporte |
 |---|---|---|
-| Por definir | exc-dev-pix | Por definir |
-| Por definir | Joaquin-cloud06 | Por definir |
-| Por definir | Italo-Germana | Por definir |
+| Diego Benjamin Calderon Ayala | exc-dev-pix | Clases y clases Abstractas |
+| Italo Guissepe Germana Zavala | Joaquin-cloud06 | Diseño UML, Interfaces |
+| Joaquin Alonso Armas Herrera | Italo-Germana | Clases, Parte gráfica |
 
 ## Tecnología
 
